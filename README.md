@@ -1,6 +1,6 @@
-# spring-self-training  
+# Spring Training (learning)  
 Spring Training outside class via online courses.
-# Topics
+## Topics
 * Spring Beans
 * Spring Set Up with XML, Anotations and Java Only
 * Spring MVC
