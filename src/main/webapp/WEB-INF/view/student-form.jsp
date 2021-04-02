@@ -17,6 +17,12 @@
         <br>
         Last Name: <form:input path="lastName" />
         <br>
+        Country:
+<%--        <form:select path="country">--%>
+<%--            <form:options items="${student.countryOptions}" />--%>
+<%--        </form:select>--%>
+        <br>
+        <form:radiobuttons items="${student.countryOptions}"  path="country"/>
         <input type="submit" value="Submit">
 
     </form:form>
