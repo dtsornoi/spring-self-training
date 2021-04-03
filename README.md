@@ -7,3 +7,4 @@ Spring Training outside class via online courses.
 * Spring MVC Forms
 * Spring MVC with JSP
 * Form validation with Hibernate Validator
+* Custom Validation made with Custom Anotation
